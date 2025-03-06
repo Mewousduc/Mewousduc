@@ -7,11 +7,13 @@
 <p align="center">📍 I'm based in <strong>Khonkaen, Thailand.</strong></p>
 
 ## Stats
-📊 Here are some stats about my work and skills.
+<p align="center">📊 Here are some stats about my work and skills.</p>
 
-<a href="https://github.com/XkJeCH" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
+<div align="center">
+    <a href="https://github.com/XkJeCH">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XkJeCH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+</div>
 
 ## Languages & Tools
 🛠️ Technologies I use to build amazing things.
