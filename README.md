@@ -7,7 +7,6 @@
 <p align="center">📍 I'm based in <strong>Khonkaen, Thailand.</strong></p>
 
 ## Stats
-<p align="center">📊 Here are some stats about my work and skills.</p>
 
 <div align="center">
     <a href="https://github.com/XkJeCH">
