@@ -14,8 +14,8 @@
     </a>
 </div>
 
-## Languages & Tools
-🛠️ Technologies I use to build amazing things.
+## 🛠️ Languages & Tools
+
 
 ### 💻 Languages
 <p align="center">
